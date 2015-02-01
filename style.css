@@ -1,0 +1,27 @@
+body {
+	font-family: Arial, Helvettioa, sans-serif;
+	background-color:#333333;
+}
+
+header {
+	width:80%;
+	background-color:black;
+	color:white;
+	padding:10pt;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+figure {
+	margin-left:auto;
+	margin-right:auto;
+	margin:0px 0px 10px 10px;
+	box-shadow:3px 3px 5px 1px #cccccc;
+}
+
+section {
+	background-color:white;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10pt;
+}
