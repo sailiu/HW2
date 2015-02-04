@@ -6,6 +6,7 @@ footer background:#1C1C1C
 body {
 	font-family: Arial, Helvettioa, sans-serif;
 	background-color:#D8D8D8;
+	border: solid 2px #1C1C1C;
 }
 
 header {
@@ -22,11 +23,12 @@ header {
 	border:solid 2px #585858;
 	text-align:center;
 	background-color:#848484;
-	width:22%;
+	width:24%;
 	float:right;
 	overflow:hidden;
-	padding:10px;
-	padding-bottom:7px;
+	padding:8px;
+	
+	
 }
 
 #left {
@@ -35,19 +37,16 @@ header {
 	padding-top:10pt;
 	background-color:#848484;
 	float:left;
+	width:24%;
+	overflow:hidden;
+
 }
 
 #middle {
 	border:solid 2px #585858;
-	padding-top:10pt;
-	padding-right:20pt;
-	padding-left:20pt;
-	margin-top:20px;
-	margin-bottom: 20px;
-	margin-left:auto;
-	margin-right:auto;
+	padding:20pt;
 	background-color:#848484;
-	width: 50%;
+	width: 46%;
 	overflow:hidden;
 	font-size:1.25em;
 }
@@ -60,6 +59,7 @@ footer {
 	padding-bottom:20pt;
 	padding-top:20pt;
 	color:white;
+
 }
 
 #bar {
