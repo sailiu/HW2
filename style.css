@@ -24,7 +24,7 @@ header {
 	text-align:center;
 	background-color:#848484;
 	width:24%;
-	float:right;
+	float:left;
 	overflow:hidden;
 	padding:8px;
 	
@@ -46,9 +46,10 @@ header {
 	border:solid 2px #585858;
 	padding:20pt;
 	background-color:#848484;
-	width: 46%;
+	width: 45%;
 	overflow:hidden;
 	font-size:1.25em;
+	float:left;
 }
 
 
