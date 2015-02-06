@@ -1,0 +1,15 @@
+header {display:none;}
+
+nav {display:none;}
+
+footer{display:none;}
+
+body{
+	font: 10pt Georgia, "Times New Roman", Times, serif;
+	line-height: 1.3;
+}
+
+#printheader{
+	line-height: 1;
+	text-align: center;
+}
